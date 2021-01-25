@@ -1,0 +1,644 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="&gt;&gt;lblKArama.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="btnKEkle.Text" xml:space="preserve">
+    <value>Ekle</value>
+  </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="lblTelefon.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="txtTelefon.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>None</value>
+  </data>
+  <data name="&gt;&gt;txtAdSoyad.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;txtKArama.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="lblAdSoyad.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;btnKEkle.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="btnKGuncelle.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;gKisiler.Name" xml:space="preserve">
+    <value>gKisiler</value>
+  </data>
+  <data name="&gt;&gt;lblMail.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="lblMail.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="lblMail.Text" xml:space="preserve">
+    <value>E-Mail</value>
+  </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="grpKisiler.Size" type="System.Drawing.Size, System.Drawing">
+    <value>397, 156</value>
+  </data>
+  <data name="txtKArama.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;btnKSil.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;txtTelefon.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;txtTelefon.Name" xml:space="preserve">
+    <value>txtTelefon</value>
+  </data>
+  <data name="&gt;&gt;txtKArama.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="lblKArama.Location" type="System.Drawing.Point, System.Drawing">
+    <value>248, 22</value>
+  </data>
+  <data name="lblKArama.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;lblKArama.Name" xml:space="preserve">
+    <value>lblKArama</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>Kisiler</value>
+  </data>
+  <data name="gKisiler.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Bottom, Left, Right</value>
+  </data>
+  <data name="txtMail.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="lblAdSoyad.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;txtAdres.Name" xml:space="preserve">
+    <value>txtAdres</value>
+  </data>
+  <data name="&gt;&gt;txtAdres.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lblTelefon.Name" xml:space="preserve">
+    <value>lblTelefon</value>
+  </data>
+  <data name="txtAdres.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;grpKisiler.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="gKisiler.Size" type="System.Drawing.Size, System.Drawing">
+    <value>402, 133</value>
+  </data>
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
+    <value>6, 13</value>
+  </data>
+  <data name="txtMail.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>None</value>
+  </data>
+  <data name="txtTelefon.Location" type="System.Drawing.Point, System.Drawing">
+    <value>238, 56</value>
+  </data>
+  <data name="&gt;&gt;lblAdSoyad.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="lblAdSoyad.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>None</value>
+  </data>
+  <data name="lblMail.Size" type="System.Drawing.Size, System.Drawing">
+    <value>36, 13</value>
+  </data>
+  <data name="lblTelefon.Text" xml:space="preserve">
+    <value>Telefon</value>
+  </data>
+  <data name="$this.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;lblAdSoyad.Parent" xml:space="preserve">
+    <value>grpKisiler</value>
+  </data>
+  <data name="&gt;&gt;lblAdres.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="txtMail.Location" type="System.Drawing.Point, System.Drawing">
+    <value>238, 91</value>
+  </data>
+  <data name="lblAdSoyad.Size" type="System.Drawing.Size, System.Drawing">
+    <value>57, 13</value>
+  </data>
+  <data name="&gt;&gt;gKisiler.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridView, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        AAABAAIAEBAAAAAAIABoBAAAJgAAACAgAAAAACAAqBAAAI4EAAAoAAAAEAAAACAAAAABACAAAAAAAEAE
+        AAAAAAAAAAAAAAAAAAAAAAAA////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af//
+        /wH///8B////Af///wH///8B////AY+Ih12PiIddj4iHXY+Ih12PiIddj4iHXY+Ih12PiIddj4iHXY+I
+        h12PiIddj4iHDY+IhzuPiIddj4iHXY+Ih12PiIf/j4iH/4+Ih/+PiIf/j4iH/4+Ih/+PiIf/j4iH/4+I
+        h/+PiIf/j4iH/4+IhyOPiIehj4iH/4+Ih/+PiIf/j4iH/4+Ih/+PiIf/j4iH/4+Ih/+PiIf/j4iH/4+I
+        h/+PiIf/j4iH/4+Ih/+PiIcjj4iHoY+Ih/+PiIf/j4iH7Y+Ih/uPiIf/j4iH/4+Ih/+PiIf/j4iH/4+I
+        h/+PiIf/j4iH/4+Ih/+PiIeZ////AY+Ih6+PiIf/j4iH/4+Ih9mPiIdVj4iH1Y+Ih/+PiIf/j4iH/4+I
+        h/+PiIf/j4iH94+Ih6GPiIcvj4iHBY+Ih2uPiIf7j4iH/4+Ih9mPiIdJ////Af///wGPiIdjj4iH+4+I
+        h/+PiIf/j4iHw4+Ihx////8Bj4iHK4+Ih9WPiIf/j4iH3Y+Ih03///8B////Af///wH///8B////AY+I
+        h6uPiIf/j4iH/4+Ihy////8B////AY+IhwWPiIftj4iH/4+Ihy////8B////Af///wH///8B////Af//
+        /wGPiIezj4iH/4+Ih/+PiIc3////Af///wGPiIcfj4iH94+Ih/+PiIdN////Af///wH///8B////Af//
+        /wGPiIcnj4iH/4+Ih/+PiIf/j4iHqf///wH///8Bj4iHjY+Ih/+PiIf/j4iHx////wH///8B////Af//
+        /wH///8Bj4iHpY+Ih/+PiIf/j4iH/4+Ih/uPiIc3////AY+Ih8uPiIf/j4iH/4+Ih/ePiIcN////Af//
+        /wH///8B////AY+Ih8OPiIf/j4iH/4+Ih/+PiIf/j4iHSf///wGPiIe7j4iH/4+Ih/+PiIf/////Af//
+        /wH///8B////Af///wGPiIe3j4iH/4+Ih/+PiIf/j4iH/4+Ihzv///8Bj4iHnY+Ih/+PiIf/j4iH1f//
+        /wH///8B////Af///wH///8Bj4iHu4+Ih/+PiIf/j4iH/4+Ih/+PiIdJ////AY+Ihw2PiIdvj4iHd4+I
+        hx////8B////Af///wH///8B////AY+Ih1+PiIf/j4iH/4+Ih/+PiIfZj4iHCf///wH///8B////Af//
+        /wH///8B////Af///wH///8B////Af///wH///8Bj4iHPY+Ih3+PiIdrj4iHEf///wH///8B////Af//
+        /wH///8B////Af///wH///8B////AQAA//8AAP//AAD//wAA//8AAP//AAD//wAA//8AAP//AAD//wAA
+        //8AAP//AAD//wAA//8AAP//AAD//wAA//8oAAAAIAAAAEAAAAABACAAAAAAAIAQAAAAAAAAAAAAAAAA
+        AAAAAAAA////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af//
+        /wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af//
+        /wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af//
+        /wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af//
+        /wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af//
+        /wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af//
+        /wH///8B////Af///wH///8B////Af///wH///8Bj4iHu4+Ih7uPiIe7j4iHu4+Ih7uPiIe7j4iHu4+I
+        h7uPiIe7j4iHu4+Ih7uPiIe7j4iHu4+Ih7uPiIe7j4iHu4+Ih7uPiIe7j4iHu4+Ih7uPiIe7j4iHu4+I
+        hzP///8Bj4iHM4+Ih7uPiIe7j4iHu4+Ih7uPiIe7j4iHu4+Ih7uPiIf/j4iH/4+Ih/+PiIf/j4iH/4+I
+        h/+PiIf/j4iH/4+Ih/+PiIf/j4iH/4+Ih/+PiIf/j4iH/4+Ih/+PiIf/j4iH/4+Ih/+PiIf/j4iH/4+I
+        h/+PiIf/j4iHRf///wGPiIdFj4iH/4+Ih/+PiIf/j4iH/4+Ih/+PiIf/j4iH/4+Ih/+PiIf/j4iH/4+I
+        h/+PiIf/j4iH/4+Ih/+PiIf/j4iH/4+Ih/+PiIf/j4iH/4+Ih/+PiIf/j4iH/4+Ih/+PiIf/j4iH/4+I
+        h/+PiIf/j4iH/4+Ih/+PiIdF////AY+Ih0WPiIf/j4iH/4+Ih/+PiIf/j4iH/4+Ih/+PiIf/j4iH/4+I
+        h/+PiIf/j4iH/4+Ih/+PiIf/j4iH/4+Ih/+PiIf/j4iH/4+Ih/+PiIf/j4iH/4+Ih/+PiIf/j4iH/4+I
+        h/+PiIf/j4iH/4+Ih/+PiIf/j4iH/4+Ih0X///8Bj4iHRY+Ih/+PiIf/j4iH/4+Ih/+PiIf/j4iH/4+I
+        h/+PiIf/j4iH/4+Ih/+PiIf/j4iH/4+Ih/+PiIf/j4iH/4+Ih/+PiIf/j4iH/4+Ih/+PiIf/j4iH/4+I
+        h/+PiIf/j4iH/4+Ih/+PiIf/j4iH/4+Ih/+PiIf/j4iHRf///wGPiIdFj4iH/4+Ih/+PiIf/j4iH/4+I
+        h/+PiIf/j4iHu4+Ih/+PiIf/j4iH/4+Ih/+PiIf/j4iH/4+Ih/+PiIf/j4iH/4+Ih/+PiIf/j4iH/4+I
+        h/+PiIf/j4iH/4+Ih/+PiIf/j4iH/4+Ih/+PiIf/j4iH/4+Ih83///8B////AY+Ih0WPiIf/j4iH/4+I
+        h/+PiIf/j4iH/4+Ih/+PiIe7j4iH74+Ih/+PiIf/j4iH/4+Ih/+PiIf/j4iH/4+Ih/+PiIf/j4iH/4+I
+        h/+PiIf/j4iH/4+Ih/+PiIf/j4iH/4+Ih/+PiIf/j4iH/4+Ih/+PiIeJj4iHEf///wH///8Bj4iHd4+I
+        h/+PiIf/j4iH/4+Ih/+PiIf/j4iH/4+Ih6uPiIdVj4iH74+Ih/+PiIf/j4iH/4+Ih/+PiIf/j4iH/4+I
+        h/+PiIf/j4iH/4+Ih/+PiIf/j4iH/4+Ih/+PiIf/j4iH/4+Ih/+PiIeZj4iHI////wH///8B////AY+I
+        hzOPiIfvj4iH/4+Ih/+PiIf/j4iH/4+Ih/+PiIfdj4iHM////wGPiIcRj4iHd4+Ih92PiIf/j4iH/4+I
+        h/+PiIf/j4iH/4+Ih/+PiIf/j4iH/4+Ih/+PiIf/j4iH/4+Ih92PiId3j4iHEf///wH///8B////AY+I
+        hxGPiId3j4iH/4+Ih/+PiIf/j4iH/4+Ih/+PiIfvj4iHd4+IhxH///8B////Af///wH///8B////AY+I
+        h2ePiIfvj4iH/4+Ih/+PiIf/j4iH/4+Ih/+PiIf/j4iH/4+Ih++PiId3////Af///wH///8B////Af//
+        /wGPiIdnj4iH74+Ih/+PiIf/j4iH/4+Ih/+PiIfNj4iHZ////wH///8B////Af///wH///8B////Af//
+        /wH///8B////AY+IhzOPiIfvj4iH/4+Ih/+PiIf/j4iH/4+Ih/+PiIfvj4iHM////wH///8B////Af//
+        /wH///8Bj4iHq4+Ih/+PiIf/j4iH/4+Ih/+PiIf/j4iHd////wH///8B////Af///wH///8B////Af//
+        /wH///8B////Af///wH///8B////AY+Ih2ePiIf/j4iH/4+Ih/+PiIf/j4iH/4+Ih3f///8B////Af//
+        /wH///8B////Af///wGPiIcRj4iH/4+Ih/+PiIf/j4iH/4+Ih3f///8B////Af///wH///8B////Af//
+        /wH///8B////Af///wH///8B////Af///wH///8Bj4iHRY+Ih/+PiIf/j4iH/4+Ih/+PiIf/j4iHRf//
+        /wH///8B////Af///wH///8B////Af///wGPiIe7j4iH/4+Ih/+PiIf/j4iHRf///wH///8B////Af//
+        /wH///8B////Af///wH///8B////Af///wH///8B////Af///wGPiIdFj4iH/4+Ih/+PiIf/j4iH/4+I
+        h/+PiIdF////Af///wH///8B////Af///wH///8B////AY+Ih92PiIf/j4iH/4+Ih/+PiIdV////Af//
+        /wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////AY+Ih4mPiIf/j4iH/4+I
+        h/+PiIf/j4iH/4+Ih5n///8B////Af///wH///8B////Af///wGPiId3j4iH/4+Ih/+PiIf/j4iH/4+I
+        h93///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af///wGPiIcjj4iH/4+I
+        h/+PiIf/j4iH/4+Ih/+PiIf/j4iH/4+IhzP///8B////Af///wH///8B////AY+Ih7uPiIf/j4iH/4+I
+        h/+PiIf/j4iH/4+Ih0X///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////AY+I
+        h3ePiIf/j4iH/4+Ih/+PiIf/j4iH/4+Ih/+PiIf/j4iHd////wH///8B////Af///wGPiId3j4iH/4+I
+        h/+PiIf/j4iH/4+Ih/+PiIf/j4iH3f///wH///8B////Af///wH///8B////Af///wH///8B////Af//
+        /wGPiIczj4iHzY+Ih/+PiIf/j4iH/4+Ih/+PiIf/j4iH/4+Ih/+PiIfvj4iHM////wH///8B////AY+I
+        h7uPiIf/j4iH/4+Ih/+PiIf/j4iH/4+Ih/+PiIf/j4iHM////wH///8B////Af///wH///8B////Af//
+        /wH///8B////AY+Ih5mPiIf/j4iH/4+Ih/+PiIf/j4iH/4+Ih/+PiIf/j4iH/4+Ih/+PiIer////Af//
+        /wH///8Bj4iHd4+Ih/+PiIf/j4iH/4+Ih/+PiIf/j4iH/4+Ih93///8B////Af///wH///8B////Af//
+        /wH///8B////Af///wH///8Bj4iHu4+Ih/+PiIf/j4iH/4+Ih/+PiIf/j4iH/4+Ih/+PiIf/j4iH/4+I
+        h7v///8B////Af///wGPiId3j4iH/4+Ih/+PiIf/j4iH/4+Ih/+PiIf/j4iH/////wH///8B////Af//
+        /wH///8B////Af///wH///8B////Af///wGPiIdVj4iH/4+Ih/+PiIf/j4iH/4+Ih/+PiIf/j4iH/4+I
+        h/+PiIf/j4iHZ////wH///8B////AY+Ih3ePiIf/j4iH/4+Ih/+PiIf/j4iH/4+Ih/+PiIf/////Af//
+        /wH///8B////Af///wH///8B////Af///wH///8B////AY+Ih2ePiIf/j4iH/4+Ih/+PiIf/j4iH/4+I
+        h/+PiIf/j4iH/4+Ih/+PiId3////Af///wH///8Bj4iHd4+Ih/+PiIf/j4iH/4+Ih/+PiIf/j4iH/4+I
+        h93///8B////Af///wH///8B////Af///wH///8B////Af///wH///8Bj4iHd4+Ih/+PiIf/j4iH/4+I
+        h/+PiIf/j4iH/4+Ih/+PiIf/j4iH/4+Ih3f///8B////Af///wGPiIcRj4iH74+Ih/+PiIf/j4iH/4+I
+        h/+PiIf/j4iHd////wH///8B////Af///wH///8B////Af///wH///8B////Af///wGPiId3j4iH/4+I
+        h/+PiIf/j4iH/4+Ih/+PiIf/j4iH/4+Ih/+PiIf/j4iHq////wH///8B////Af///wGPiIczj4iHu4+I
+        h/+PiIf/j4iH3Y+Ih3f///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////AY+I
+        h3ePiIf/j4iH/4+Ih/+PiIf/j4iH/4+Ih/+PiIf/j4iH/4+Ih/+PiId3////Af///wH///8B////Af//
+        /wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af//
+        /wH///8Bj4iHI4+Ih++PiIf/j4iH/4+Ih/+PiIf/j4iH/4+Ih/+PiIf/j4iH/4+IhyP///8B////Af//
+        /wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af//
+        /wH///8B////Af///wH///8Bj4iHZ4+Ih/+PiIf/j4iH/4+Ih/+PiIf/j4iH/4+Ih/+PiIdn////Af//
+        /wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af//
+        /wH///8B////Af///wH///8B////Af///wH///8Bj4iHRY+Ih6uPiIf/j4iH/4+Ih/+PiIerj4iHRf//
+        /wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af//
+        /wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af//
+        /wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af//
+        /wH///8B////Af///wH///8B////AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+</value>
+  </data>
+  <data name="&gt;&gt;lblAdres.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="gKisiler.Location" type="System.Drawing.Point, System.Drawing">
+    <value>13, 253</value>
+  </data>
+  <data name="&gt;&gt;txtKArama.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="grpKisiler.Location" type="System.Drawing.Point, System.Drawing">
+    <value>13, 39</value>
+  </data>
+  <data name="&gt;&gt;txtMail.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="lblKArama.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>None</value>
+  </data>
+  <data name="btnKSil.Size" type="System.Drawing.Size, System.Drawing">
+    <value>75, 23</value>
+  </data>
+  <data name="lblAdSoyad.Location" type="System.Drawing.Point, System.Drawing">
+    <value>34, 25</value>
+  </data>
+  <data name="txtAdSoyad.Location" type="System.Drawing.Point, System.Drawing">
+    <value>238, 19</value>
+  </data>
+  <data name="lblAdres.Text" xml:space="preserve">
+    <value>Adres</value>
+  </data>
+  <data name="lblMail.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>None</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>Kisiler</value>
+  </data>
+  <data name="txtKArama.Size" type="System.Drawing.Size, System.Drawing">
+    <value>100, 20</value>
+  </data>
+  <data name="&gt;&gt;txtMail.Name" xml:space="preserve">
+    <value>txtMail</value>
+  </data>
+  <data name="&gt;&gt;txtTelefon.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="btnKGuncelle.Location" type="System.Drawing.Point, System.Drawing">
+    <value>178, 224</value>
+  </data>
+  <data name="btnKEkle.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>None</value>
+  </data>
+  <data name="grpKisiler.Text" xml:space="preserve">
+    <value>Kisiler</value>
+  </data>
+  <data name="lblKArama.Size" type="System.Drawing.Size, System.Drawing">
+    <value>42, 13</value>
+  </data>
+  <data name="btnKGuncelle.Text" xml:space="preserve">
+    <value>Güncelle</value>
+  </data>
+  <data name="txtAdres.Size" type="System.Drawing.Size, System.Drawing">
+    <value>100, 20</value>
+  </data>
+  <data name="txtAdSoyad.Size" type="System.Drawing.Size, System.Drawing">
+    <value>100, 20</value>
+  </data>
+  <data name="&gt;&gt;btnKSil.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;gKisiler.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;lblMail.Parent" xml:space="preserve">
+    <value>grpKisiler</value>
+  </data>
+  <data name="&gt;&gt;btnKSil.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="txtAdSoyad.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>None</value>
+  </data>
+  <data name="&gt;&gt;gKisiler.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="lblTelefon.Location" type="System.Drawing.Point, System.Drawing">
+    <value>34, 59</value>
+  </data>
+  <data name="&gt;&gt;txtAdSoyad.Name" xml:space="preserve">
+    <value>txtAdSoyad</value>
+  </data>
+  <data name="&gt;&gt;lblMail.Name" xml:space="preserve">
+    <value>lblMail</value>
+  </data>
+  <data name="btnKEkle.Size" type="System.Drawing.Size, System.Drawing">
+    <value>75, 23</value>
+  </data>
+  <data name="txtAdres.Location" type="System.Drawing.Point, System.Drawing">
+    <value>238, 130</value>
+  </data>
+  <data name="&gt;&gt;txtTelefon.Parent" xml:space="preserve">
+    <value>grpKisiler</value>
+  </data>
+  <data name="&gt;&gt;txtAdSoyad.Parent" xml:space="preserve">
+    <value>grpKisiler</value>
+  </data>
+  <data name="&gt;&gt;lblTelefon.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnKEkle.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;grpKisiler.Name" xml:space="preserve">
+    <value>grpKisiler</value>
+  </data>
+  <data name="btnKEkle.Location" type="System.Drawing.Point, System.Drawing">
+    <value>50, 224</value>
+  </data>
+  <data name="txtAdres.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>None</value>
+  </data>
+  <data name="&gt;&gt;lblAdres.Parent" xml:space="preserve">
+    <value>grpKisiler</value>
+  </data>
+  <data name="lblMail.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;grpKisiler.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="txtMail.Size" type="System.Drawing.Size, System.Drawing">
+    <value>100, 20</value>
+  </data>
+  <data name="lblAdres.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>None</value>
+  </data>
+  <data name="&gt;&gt;lblMail.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnKGuncelle.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="txtKArama.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>None</value>
+  </data>
+  <data name="&gt;&gt;txtMail.Parent" xml:space="preserve">
+    <value>grpKisiler</value>
+  </data>
+  <data name="&gt;&gt;btnKEkle.Name" xml:space="preserve">
+    <value>btnKEkle</value>
+  </data>
+  <data name="&gt;&gt;lblTelefon.Parent" xml:space="preserve">
+    <value>grpKisiler</value>
+  </data>
+  <data name="btnKSil.Location" type="System.Drawing.Point, System.Drawing">
+    <value>315, 224</value>
+  </data>
+  <data name="lblAdSoyad.Text" xml:space="preserve">
+    <value>Adı Soyadı</value>
+  </data>
+  <data name="lblKArama.Text" xml:space="preserve">
+    <value>Kişi Ara</value>
+  </data>
+  <data name="lblTelefon.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>None</value>
+  </data>
+  <data name="gKisiler.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;txtAdres.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Form, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="lblKArama.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;lblTelefon.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="grpKisiler.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="txtTelefon.Size" type="System.Drawing.Size, System.Drawing">
+    <value>100, 20</value>
+  </data>
+  <data name="&gt;&gt;lblKArama.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;lblAdres.Name" xml:space="preserve">
+    <value>lblAdres</value>
+  </data>
+  <data name="txtKArama.Location" type="System.Drawing.Point, System.Drawing">
+    <value>315, 15</value>
+  </data>
+  <data name="&gt;&gt;btnKGuncelle.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btnKGuncelle.Name" xml:space="preserve">
+    <value>btnKGuncelle</value>
+  </data>
+  <data name="lblAdres.TabIndex" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <data name="txtAdSoyad.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="lblAdres.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="btnKGuncelle.Size" type="System.Drawing.Size, System.Drawing">
+    <value>75, 23</value>
+  </data>
+  <data name="&gt;&gt;txtAdSoyad.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="txtTelefon.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;btnKSil.Name" xml:space="preserve">
+    <value>btnKSil</value>
+  </data>
+  <data name="lblAdres.Location" type="System.Drawing.Point, System.Drawing">
+    <value>34, 133</value>
+  </data>
+  <data name="btnKSil.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="grpKisiler.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>None</value>
+  </data>
+  <data name="&gt;&gt;txtAdres.Parent" xml:space="preserve">
+    <value>grpKisiler</value>
+  </data>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>423, 398</value>
+  </data>
+  <data name="&gt;&gt;txtMail.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="lblTelefon.Size" type="System.Drawing.Size, System.Drawing">
+    <value>43, 13</value>
+  </data>
+  <data name="&gt;&gt;lblKArama.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="lblTelefon.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;lblAdSoyad.Name" xml:space="preserve">
+    <value>lblAdSoyad</value>
+  </data>
+  <data name="&gt;&gt;grpKisiler.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;txtKArama.Name" xml:space="preserve">
+    <value>txtKArama</value>
+  </data>
+  <data name="btnKEkle.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;btnKEkle.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="btnKGuncelle.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>None</value>
+  </data>
+  <data name="lblMail.Location" type="System.Drawing.Point, System.Drawing">
+    <value>34, 94</value>
+  </data>
+  <data name="&gt;&gt;btnKGuncelle.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lblAdSoyad.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="lblAdres.Size" type="System.Drawing.Size, System.Drawing">
+    <value>34, 13</value>
+  </data>
+  <data name="btnKSil.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>None</value>
+  </data>
+  <data name="btnKSil.Text" xml:space="preserve">
+    <value>Sil</value>
+  </data>
+  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="$this.Language" type="System.Globalization.CultureInfo, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>tr-TR</value>
+  </metadata>
+</root>

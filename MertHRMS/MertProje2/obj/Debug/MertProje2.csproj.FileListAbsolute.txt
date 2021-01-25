@@ -1,0 +1,113 @@
+C:\Users\Yazilim1\Desktop\mert proje\MertProje2\MertProje2\MertProje2\bin\Debug\MertProje2.exe.config
+C:\Users\Yazilim1\Desktop\mert proje\MertProje2\MertProje2\MertProje2\bin\Debug\MertProje2.exe
+C:\Users\Yazilim1\Desktop\mert proje\MertProje2\MertProje2\MertProje2\bin\Debug\MertProje2.pdb
+C:\Users\Yazilim1\Desktop\mert proje\MertProje2\MertProje2\MertProje2\obj\Debug\MertProje2.csprojResolveAssemblyReference.cache
+C:\Users\Yazilim1\Desktop\mert proje\MertProje2\MertProje2\MertProje2\obj\Debug\MertProje2.MertProje2.resources
+C:\Users\Yazilim1\Desktop\mert proje\MertProje2\MertProje2\MertProje2\obj\Debug\MertProje2.Properties.Resources.resources
+C:\Users\Yazilim1\Desktop\mert proje\MertProje2\MertProje2\MertProje2\obj\Debug\MertProje2.csproj.GenerateResource.Cache
+C:\Users\Yazilim1\Desktop\mert proje\MertProje2\MertProje2\MertProje2\obj\Debug\MertProje2.exe
+C:\Users\Yazilim1\Desktop\mert proje\MertProje2\MertProje2\MertProje2\obj\Debug\MertProje2.pdb
+C:\Users\Yazilim1\Desktop\mert proje\MertProje2\MertProje2\MertProje2\obj\Debug\MertProje2.Kisiler.resources
+C:\Users\Yazilim1\Desktop\mert proje\MertProje2\MertProje2\MertProje2\obj\Debug\MertProje2.Projeler.resources
+C:\Users\Yazilim1\Desktop\mert proje\MertProje2\MertProje2\MertProje2\obj\Debug\MertProje2.Verim.resources
+C:\Users\Yazilim1\Desktop\mert proje\MertProje2\MertProje2\MertProje2\bin\Debug\tr-TR\MertProje2.resources.dll
+C:\Users\Yazilim1\Desktop\mert proje\MertProje2\MertProje2\MertProje2\obj\Debug\tr-TR\MertProje2.resources.dll
+C:\Users\Yazilim1\Desktop\mert proje\MertProje2\MertProje2\MertProje2\bin\Debug\tr\MertProje2.resources.dll
+C:\Users\Yazilim1\Desktop\mert proje\MertProje2\MertProje2\MertProje2\obj\Debug\MertProje2.MertProje2.tr.resources
+C:\Users\Yazilim1\Desktop\mert proje\MertProje2\MertProje2\MertProje2\obj\Debug\tr\MertProje2.resources.dll
+C:\Users\Yazilim1\Desktop\mert proje\MertProje2\v4(Çeviri Bitmedi)\MertProje2\bin\Debug\MertProje2.exe.config
+C:\Users\Yazilim1\Desktop\mert proje\MertProje2\v4(Çeviri Bitmedi)\MertProje2\obj\Debug\MertProje2.exe
+C:\Users\Yazilim1\Desktop\mert proje\MertProje2\v4(Çeviri Bitmedi)\MertProje2\obj\Debug\MertProje2.pdb
+C:\Users\Yazilim1\Desktop\mert proje\MertProje2\MertProje2\MertProje2\obj\Debug\MertProje2.Resources.Resources.en-EN.resources
+C:\Users\Yazilim1\Desktop\mert proje\MertProje2\MertProje2\MertProje2\obj\Debug\MertProje2.MertProje2.tr-TR.resources
+C:\Users\Yazilim1\Desktop\mert proje\MertProje2\MertProje2\MertProje2\obj\Debug\MertProje2.Resources.Resources.tr-TR.resources
+C:\Users\Yazilim1\Desktop\mert proje\MertProje2\v5\MertProje2\bin\Debug\MertProje2.exe.config
+C:\Users\Yazilim1\Desktop\mert proje\MertProje2\v5\MertProje2\obj\Debug\MertProje2.exe
+C:\Users\Yazilim1\Desktop\mert proje\MertProje2\v5\MertProje2\obj\Debug\MertProje2.pdb
+C:\Users\Yazilim1\Desktop\mert proje\MertProje2\v5(Çeviri İptal)\MertProje2\bin\Debug\MertProje2.exe.config
+C:\Users\Yazilim1\Desktop\mert proje\MertProje2\v5(Çeviri İptal)\MertProje2\obj\Debug\MertProje2.exe
+C:\Users\Yazilim1\Desktop\mert proje\MertProje2\v5(Çeviri İptal)\MertProje2\obj\Debug\MertProje2.pdb
+C:\Users\Yazilim1\Desktop\mert proje\MertProje2\v5(Çeviri İptal)\MertProje2\bin\Debug\MertProje2.exe
+C:\Users\Yazilim1\Desktop\mert proje\MertProje2\v5(Çeviri İptal)\MertProje2\bin\Debug\MertProje2.pdb
+C:\Users\Yazilim1\Desktop\mert proje\MertProje2\v5(Çeviri İptal)\MertProje2\bin\Debug\tr-TR\MertProje2.resources.dll
+C:\Users\Yazilim1\Desktop\mert proje\MertProje2\v5(Çeviri İptal)\MertProje2\bin\Debug\tr\MertProje2.resources.dll
+C:\Users\Yazilim1\Desktop\mert proje\MertProje2\v5(Çeviri İptal)\MertProje2\obj\Debug\MertProje2.csprojResolveAssemblyReference.cache
+C:\Users\Yazilim1\Desktop\mert proje\MertProje2\v5(Çeviri İptal)\MertProje2\obj\Debug\MertProje2.Kisiler.resources
+C:\Users\Yazilim1\Desktop\mert proje\MertProje2\v5(Çeviri İptal)\MertProje2\obj\Debug\MertProje2.MertProje2.resources
+C:\Users\Yazilim1\Desktop\mert proje\MertProje2\v5(Çeviri İptal)\MertProje2\obj\Debug\MertProje2.Projeler.resources
+C:\Users\Yazilim1\Desktop\mert proje\MertProje2\v5(Çeviri İptal)\MertProje2\obj\Debug\MertProje2.Properties.Resources.resources
+C:\Users\Yazilim1\Desktop\mert proje\MertProje2\v5(Çeviri İptal)\MertProje2\obj\Debug\MertProje2.Resources.Resources.en-EN.resources
+C:\Users\Yazilim1\Desktop\mert proje\MertProje2\v5(Çeviri İptal)\MertProje2\obj\Debug\MertProje2.Verim.resources
+C:\Users\Yazilim1\Desktop\mert proje\MertProje2\v5(Çeviri İptal)\MertProje2\obj\Debug\MertProje2.MertProje2.tr-TR.resources
+C:\Users\Yazilim1\Desktop\mert proje\MertProje2\v5(Çeviri İptal)\MertProje2\obj\Debug\MertProje2.MertProje2.tr.resources
+C:\Users\Yazilim1\Desktop\mert proje\MertProje2\v5(Çeviri İptal)\MertProje2\obj\Debug\MertProje2.Resources.Resources.tr-TR.resources
+C:\Users\Yazilim1\Desktop\mert proje\MertProje2\v5(Çeviri İptal)\MertProje2\obj\Debug\MertProje2.csproj.GenerateResource.Cache
+C:\Users\Yazilim1\Desktop\mert proje\MertProje2\v5(Çeviri İptal)\MertProje2\obj\Debug\tr-TR\MertProje2.resources.dll
+C:\Users\Yazilim1\Desktop\mert proje\MertProje2\v5(Çeviri İptal)\MertProje2\obj\Debug\tr\MertProje2.resources.dll
+C:\Users\mert_\Desktop\mert proje\MertProje2\v5(Çeviri İptal)\MertProje2\bin\Debug\MertProje2.exe.config
+C:\Users\mert_\Desktop\mert proje\MertProje2\v5(Çeviri İptal)\MertProje2\obj\Debug\MertProje2.exe
+C:\Users\mert_\Desktop\mert proje\MertProje2\v5(Çeviri İptal)\MertProje2\obj\Debug\MertProje2.pdb
+C:\Users\mert_\Desktop\Dosyalar\mert proje\MertProje2\v5(Çeviri İptal)\MertProje2\bin\Debug\MertProje2.exe.config
+C:\Users\mert_\Desktop\Dosyalar\mert proje\MertProje2\v5(Çeviri İptal)\MertProje2\obj\Debug\MertProje2.exe
+C:\Users\mert_\Desktop\Dosyalar\mert proje\MertProje2\v5(Çeviri İptal)\MertProje2\obj\Debug\MertProje2.pdb
+C:\Users\mert_\Desktop\Dosyalar\mert proje\MertProje2\v5(Çeviri İptal)\MertProje2\bin\Debug\MertProje2.exe
+C:\Users\mert_\Desktop\Dosyalar\mert proje\MertProje2\v5(Çeviri İptal)\MertProje2\bin\Debug\MertProje2.pdb
+C:\Users\mert_\Desktop\Dosyalar\mert proje\MertProje2\v5(Çeviri İptal)\MertProje2\bin\Debug\tr-TR\MertProje2.resources.dll
+C:\Users\mert_\Desktop\Dosyalar\mert proje\MertProje2\v5(Çeviri İptal)\MertProje2\bin\Debug\tr\MertProje2.resources.dll
+C:\Users\mert_\Desktop\Dosyalar\mert proje\MertProje2\v5(Çeviri İptal)\MertProje2\obj\Debug\MertProje2.csprojResolveAssemblyReference.cache
+C:\Users\mert_\Desktop\Dosyalar\mert proje\MertProje2\v5(Çeviri İptal)\MertProje2\obj\Debug\MertProje2.Kisiler.resources
+C:\Users\mert_\Desktop\Dosyalar\mert proje\MertProje2\v5(Çeviri İptal)\MertProje2\obj\Debug\MertProje2.MertProje2.resources
+C:\Users\mert_\Desktop\Dosyalar\mert proje\MertProje2\v5(Çeviri İptal)\MertProje2\obj\Debug\MertProje2.Projeler.resources
+C:\Users\mert_\Desktop\Dosyalar\mert proje\MertProje2\v5(Çeviri İptal)\MertProje2\obj\Debug\MertProje2.Properties.Resources.resources
+C:\Users\mert_\Desktop\Dosyalar\mert proje\MertProje2\v5(Çeviri İptal)\MertProje2\obj\Debug\MertProje2.Resources.Resources.en-EN.resources
+C:\Users\mert_\Desktop\Dosyalar\mert proje\MertProje2\v5(Çeviri İptal)\MertProje2\obj\Debug\MertProje2.Verim.resources
+C:\Users\mert_\Desktop\Dosyalar\mert proje\MertProje2\v5(Çeviri İptal)\MertProje2\obj\Debug\MertProje2.Kisiler.tr-TR.resources
+C:\Users\mert_\Desktop\Dosyalar\mert proje\MertProje2\v5(Çeviri İptal)\MertProje2\obj\Debug\MertProje2.MertProje2.tr-TR.resources
+C:\Users\mert_\Desktop\Dosyalar\mert proje\MertProje2\v5(Çeviri İptal)\MertProje2\obj\Debug\MertProje2.MertProje2.tr.resources
+C:\Users\mert_\Desktop\Dosyalar\mert proje\MertProje2\v5(Çeviri İptal)\MertProje2\obj\Debug\MertProje2.Resources.Resources.tr-TR.resources
+C:\Users\mert_\Desktop\Dosyalar\mert proje\MertProje2\v5(Çeviri İptal)\MertProje2\obj\Debug\MertProje2.csproj.GenerateResource.Cache
+C:\Users\mert_\Desktop\Dosyalar\mert proje\MertProje2\v5(Çeviri İptal)\MertProje2\obj\Debug\tr-TR\MertProje2.resources.dll
+C:\Users\mert_\Desktop\Dosyalar\mert proje\MertProje2\v5(Çeviri İptal)\MertProje2\obj\Debug\tr\MertProje2.resources.dll
+D:\1m1m\MertProje2\v5(Çeviri İptal)\MertProje2\bin\Debug\MertProje2.exe.config
+D:\1m1m\MertProje2\v5(Çeviri İptal)\MertProje2\bin\Debug\MertProje2.exe
+D:\1m1m\MertProje2\v5(Çeviri İptal)\MertProje2\bin\Debug\MertProje2.pdb
+D:\1m1m\MertProje2\v5(Çeviri İptal)\MertProje2\bin\Debug\tr-TR\MertProje2.resources.dll
+D:\1m1m\MertProje2\v5(Çeviri İptal)\MertProje2\bin\Debug\tr\MertProje2.resources.dll
+D:\1m1m\MertProje2\v5(Çeviri İptal)\MertProje2\obj\Debug\MertProje2.csprojResolveAssemblyReference.cache
+D:\1m1m\MertProje2\v5(Çeviri İptal)\MertProje2\obj\Debug\MertProje2.Kisiler.resources
+D:\1m1m\MertProje2\v5(Çeviri İptal)\MertProje2\obj\Debug\MertProje2.MertProje2.resources
+D:\1m1m\MertProje2\v5(Çeviri İptal)\MertProje2\obj\Debug\MertProje2.Projeler.resources
+D:\1m1m\MertProje2\v5(Çeviri İptal)\MertProje2\obj\Debug\MertProje2.Properties.Resources.resources
+D:\1m1m\MertProje2\v5(Çeviri İptal)\MertProje2\obj\Debug\MertProje2.Resources.Resources.en-EN.resources
+D:\1m1m\MertProje2\v5(Çeviri İptal)\MertProje2\obj\Debug\MertProje2.Verim.resources
+D:\1m1m\MertProje2\v5(Çeviri İptal)\MertProje2\obj\Debug\MertProje2.Kisiler.tr-TR.resources
+D:\1m1m\MertProje2\v5(Çeviri İptal)\MertProje2\obj\Debug\MertProje2.MertProje2.tr-TR.resources
+D:\1m1m\MertProje2\v5(Çeviri İptal)\MertProje2\obj\Debug\MertProje2.MertProje2.tr.resources
+D:\1m1m\MertProje2\v5(Çeviri İptal)\MertProje2\obj\Debug\MertProje2.Resources.Resources.tr-TR.resources
+D:\1m1m\MertProje2\v5(Çeviri İptal)\MertProje2\obj\Debug\MertProje2.csproj.GenerateResource.Cache
+D:\1m1m\MertProje2\v5(Çeviri İptal)\MertProje2\obj\Debug\tr-TR\MertProje2.resources.dll
+D:\1m1m\MertProje2\v5(Çeviri İptal)\MertProje2\obj\Debug\tr\MertProje2.resources.dll
+D:\1m1m\MertProje2\v5(Çeviri İptal)\MertProje2\obj\Debug\MertProje2.exe
+D:\1m1m\MertProje2\v5(Çeviri İptal)\MertProje2\obj\Debug\MertProje2.pdb
+F:\Yeni klasör\Mert\1m1m\MertProje2\v5(Çeviri İptal)\MertProje2\bin\Debug\MertProje2.exe.config
+F:\Yeni klasör\Mert\1m1m\MertProje2\v5(Çeviri İptal)\MertProje2\bin\Debug\MertProje2.exe
+F:\Yeni klasör\Mert\1m1m\MertProje2\v5(Çeviri İptal)\MertProje2\bin\Debug\MertProje2.pdb
+F:\Yeni klasör\Mert\1m1m\MertProje2\v5(Çeviri İptal)\MertProje2\bin\Debug\tr-TR\MertProje2.resources.dll
+F:\Yeni klasör\Mert\1m1m\MertProje2\v5(Çeviri İptal)\MertProje2\bin\Debug\tr\MertProje2.resources.dll
+F:\Yeni klasör\Mert\1m1m\MertProje2\v5(Çeviri İptal)\MertProje2\obj\Debug\MertProje2.csprojAssemblyReference.cache
+F:\Yeni klasör\Mert\1m1m\MertProje2\v5(Çeviri İptal)\MertProje2\obj\Debug\MertProje2.Kisiler.resources
+F:\Yeni klasör\Mert\1m1m\MertProje2\v5(Çeviri İptal)\MertProje2\obj\Debug\MertProje2.MertProje2.resources
+F:\Yeni klasör\Mert\1m1m\MertProje2\v5(Çeviri İptal)\MertProje2\obj\Debug\MertProje2.Projeler.resources
+F:\Yeni klasör\Mert\1m1m\MertProje2\v5(Çeviri İptal)\MertProje2\obj\Debug\MertProje2.Properties.Resources.resources
+F:\Yeni klasör\Mert\1m1m\MertProje2\v5(Çeviri İptal)\MertProje2\obj\Debug\MertProje2.Resources.Resources.en-EN.resources
+F:\Yeni klasör\Mert\1m1m\MertProje2\v5(Çeviri İptal)\MertProje2\obj\Debug\MertProje2.Verim.resources
+F:\Yeni klasör\Mert\1m1m\MertProje2\v5(Çeviri İptal)\MertProje2\obj\Debug\MertProje2.Kisiler.tr-TR.resources
+F:\Yeni klasör\Mert\1m1m\MertProje2\v5(Çeviri İptal)\MertProje2\obj\Debug\MertProje2.MertProje2.tr-TR.resources
+F:\Yeni klasör\Mert\1m1m\MertProje2\v5(Çeviri İptal)\MertProje2\obj\Debug\MertProje2.MertProje2.tr.resources
+F:\Yeni klasör\Mert\1m1m\MertProje2\v5(Çeviri İptal)\MertProje2\obj\Debug\MertProje2.Resources.Resources.tr-TR.resources
+F:\Yeni klasör\Mert\1m1m\MertProje2\v5(Çeviri İptal)\MertProje2\obj\Debug\MertProje2.csproj.GenerateResource.cache
+F:\Yeni klasör\Mert\1m1m\MertProje2\v5(Çeviri İptal)\MertProje2\obj\Debug\MertProje2.csproj.CoreCompileInputs.cache
+F:\Yeni klasör\Mert\1m1m\MertProje2\v5(Çeviri İptal)\MertProje2\obj\Debug\tr-TR\MertProje2.resources.dll
+F:\Yeni klasör\Mert\1m1m\MertProje2\v5(Çeviri İptal)\MertProje2\obj\Debug\tr\MertProje2.resources.dll
+F:\Yeni klasör\Mert\1m1m\MertProje2\v5(Çeviri İptal)\MertProje2\obj\Debug\MertProje2.exe
+F:\Yeni klasör\Mert\1m1m\MertProje2\v5(Çeviri İptal)\MertProje2\obj\Debug\MertProje2.pdb
